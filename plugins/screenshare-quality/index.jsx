@@ -13,7 +13,7 @@ const {
 
 const resolutions = [480, 720, 1080, 1440];
 const framerates = [5, 15, 30, 60];
-let height = 720;
+let height = 1080;
 let width = 1280;
 let fps = 30;
 function patchScreenshareQuality(newHeight, newFramerate) {
